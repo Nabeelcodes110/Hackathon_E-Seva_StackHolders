@@ -1,0 +1,10 @@
+.hero-image {
+  background-image: url("D:\Hackathon_E-Seva\client\public\assets\edu2.jpg");
+    background-color: #cccccc;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+

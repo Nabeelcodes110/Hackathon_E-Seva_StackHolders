@@ -1,0 +1,9 @@
+.hello{
+    background-image: url("D:\Hackathon_E-Seva\client\public\assets\edu2.jpg");
+    background-color: #cccccc;
+    height: 100%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    position: relative;
+}
